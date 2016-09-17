@@ -7,10 +7,10 @@ This repository is aiming at compiling all solutions of the Coding Game challeng
 This is a community-oriented repo, and feel free to fork the repo or make pull requests to add new solutions (or improve existing ones)
 
 ## Training
-+ [Easy](../training/easy)
-+ [Medium](../training/medium)
-+ [Hard](../training/hard)
-+ [Expert](../training/expert)
-+ [Community](../training/community)
++ [Easy](./training/easy)
++ [Medium](./training/medium)
++ [Hard](./training/hard)
++ [Expert](./training/expert)
++ [Community](./training/community)
 
 
